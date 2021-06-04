@@ -11,3 +11,6 @@ input[type=submit] {
 body{
     text-align: center;
 }
+.container {
+    margin: auto;
+}
