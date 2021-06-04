@@ -1,0 +1,15 @@
+projects:
+  appsync-petTheory-eventbridge:
+    schemaPath: src/graphql/schema.json
+    includes:
+      - src/graphql/**/*.ts
+    excludes:
+      - ./amplify/**
+    extensions:
+      amplify:
+        codeGenTarget: typescript
+        generatedFileName: src/API.ts
+        docsFilePath: src/graphql
+        region: us-west-2
+        apiId: q2y6xnd5krd3dlreghgvghac2u
+        maxDepth: 2

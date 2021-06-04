@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-petstorygatsby-dev-122023-authRole",
+      "UnauthRoleArn": "arn:aws:iam::070389878009:role/amplify-petstorygatsby-dev-122023-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::070389878009:role/amplify-petstorygatsby-dev-122023-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-petstorygatsby-dev-122023-deployment",
+      "UnauthRoleName": "amplify-petstorygatsby-dev-122023-unauthRole",
+      "StackName": "amplify-petstorygatsby-dev-122023",
+      "StackId": "arn:aws:cloudformation:us-west-2:070389878009:stack/amplify-petstorygatsby-dev-122023/579d7f60-c505-11eb-88c9-0a5fe9e3122b",
+      "AmplifyAppId": "d3s5zvf3s8beov"
+    }
+  }
+}

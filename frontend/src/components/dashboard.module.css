@@ -1,0 +1,13 @@
+input[type=submit] {
+    padding:16px 32px; 
+    background:#4CAF50; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+    margin: 4px 2px;
+}
+
+body{
+    text-align: center;
+}
